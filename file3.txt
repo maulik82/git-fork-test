@@ -1,1 +1,2 @@
 adding file3 under fork 
+Modifying file 3 by main so can be picked up by forked repo for sync

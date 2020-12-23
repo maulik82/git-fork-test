@@ -1,1 +1,2 @@
 hi, now adding something to the gerrit file 
+okay, I have removed white space now 
